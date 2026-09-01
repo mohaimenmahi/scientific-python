@@ -1,3 +1,4 @@
 **/pytorch_env
 /.claude
 **/path/
+.DS_Store
